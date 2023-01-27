@@ -1,3 +1,1 @@
-# Learning-git-github
-New to gitHub 
-Let's learn together
+Welcome to read me file
