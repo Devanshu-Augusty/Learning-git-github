@@ -1,0 +1,3 @@
+c++ 
+Python
+Rich dad poor dad
